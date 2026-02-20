@@ -1,8 +1,10 @@
 body {
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.784);
+}
+svg {
+    flex: 1;
 }
